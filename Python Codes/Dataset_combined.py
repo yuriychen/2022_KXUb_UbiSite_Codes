@@ -14,8 +14,8 @@ def GetFileName():
 #specify file path and file names
 file_names = GetFileName()[0]
 xgg_types = GetFileName()[1]
-file_path = '..\\GGX\\Sites\\'
-file_output = 'Character\\All_combined.csv'
+file_path = 'Character\\'
+file_output = 'Dataset\\All_combined.csv'
 
 #loop for modification datasets combining
 for file_name, type_xgg in zip(file_names,xgg_types):
