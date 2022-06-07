@@ -2,6 +2,7 @@
 * Python 3.9.12
 * Thermo MSFileReader version 3.0SP3 (https://thermo.flexnetoperations.com/control/thmo/search?query=MSFileReader)
 * MSFileReader Package of Python (https://github.com/frallain/pymsfilereader)
+* Visual Studio Code 1.67.2
 
 MSFileReader Package was installed by:
 
