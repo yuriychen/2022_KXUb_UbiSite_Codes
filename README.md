@@ -1,7 +1,7 @@
 # Python and R codes of Aminoacylated Lysine Ubiquitination analysis
 
 # Python scripts
-## Enviroment
+## Environment
 * Python 3.9.12
 * Thermo MSFileReader version 3.0 SP3 (https://thermo.flexnetoperations.com/control/thmo/search?query=MSFileReader)
 * MSFileReader Package of Python (https://github.com/frallain/pymsfilereader)
