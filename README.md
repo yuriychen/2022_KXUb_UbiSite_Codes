@@ -8,6 +8,4 @@
 
 Python was installed through Anaconda Navigator 2.1.4 (https://www.anaconda.com/)
 
-MSFileReader Package was installed by:
-
-`pip3 install pymsfilereader`
+MSFileReader Package was installed by: `pip3 install pymsfilereader`
