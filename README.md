@@ -1,4 +1,4 @@
-# 2022_KXUb_Codes
+# Python and R codes of Aminoacylated Lysine Ubiquitination analysis
 
 # Python scripts
 ## Enviroment
