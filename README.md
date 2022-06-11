@@ -3,6 +3,8 @@
 # Python scripts
 ## Environment
 * Python 3.9.12
+* NumPy 1.21.5
+* pandas 1.4.2
 * Thermo MSFileReader version 3.0 SP3 (https://thermo.flexnetoperations.com/control/thmo/search?query=MSFileReader)
 * MSFileReader Package of Python (https://github.com/frallain/pymsfilereader)
 * Visual Studio Code 1.67.2
