@@ -1,4 +1,4 @@
-# Python and R codes of Aminoacylated Lysine Ubiquitination analysis
+# Python and R codes for Aminoacylated Lysine Ubiquitination analysis
 
 # Python scripts
 ## Environment
