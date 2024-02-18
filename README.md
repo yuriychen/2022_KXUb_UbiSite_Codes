@@ -1,5 +1,9 @@
 # Python and R codes for Aminoacylated Lysine Ubiquitination analysis
 
+# Publication
+Genetic code expansion reveals aminoacylated lysine ubiquitination mediated by UBE2W. Jia Zang, Yulin Chen, Chao Liu, Linzhen Hu, Hongxia Zhao, Wenlong Ding, Ying Yuan & Shixian Lin. Nature Structural & Molecular Biology, volume 30, pages 62–71 (2023).
+https://www.nature.com/articles/s41594-022-00866-9
+
 # Python scripts
 ## Environment
 * Python 3.9.12
